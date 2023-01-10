@@ -126,7 +126,7 @@ print(userID)
 print(userID)
 print(userID)
 print(pivot_data)
-# recommend(userID, pivot_data, pred_data, num_recommedations)
+# recommend(userID, pivot_data, pred_data, num_recommedations) dkdd
 
 def write(new):
     with open("rating_final.csv", "a") as f:
